@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thelegions.aternos.me
-",
+    "ip": "thelegions.aternos.me",
     "port": 62129,
     "version": "1.20.1",
     "try-creative": false
